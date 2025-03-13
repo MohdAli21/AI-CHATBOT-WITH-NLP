@@ -12,6 +12,7 @@
 
 *MENTOR*: NEELA SANTOSH
 
+
 ### **AI Chatbot with NLP – Project Overview**  
 
 #### **Introduction**  
@@ -98,19 +99,6 @@ The AI Chatbot has multiple real-world applications across various industries:
 6. **Mathematical Assistance:**  
    - Helps users quickly solve mathematical expressions.  
    - Can be used in **educational chatbots** for learning support.  
-
----
-
-### **Future Improvements & Enhancements**  
-
-- **Voice Input & Output:**  
-  - Integrate **speech recognition** for hands-free interaction.  
-- **Machine Learning Integration:**  
-  - Use **deep learning models** to improve the chatbot's understanding of complex queries.  
-- **Database Storage:**  
-  - Store user preferences for personalized responses.  
-- **Web-Based Interface:**  
-  - Convert the chatbot into a **web app** for easier access.  
 
 ---
 
