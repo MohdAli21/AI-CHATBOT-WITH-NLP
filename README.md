@@ -103,4 +103,10 @@ The AI Chatbot has multiple real-world applications across various industries:
 ---
 
 ### **Conclusion**  
-This **AI Chatbot with NLP** project demonstrates the power of **Python, APIs, and Natural Language Processing** in building interactive applications. It serves as an **educational tool** for beginners in **AI & NLP** and can be expanded into an advanced chatbot for **customer service, news updates, weather forecasting, and more**. The implementation in **VS Code** ensures a **smooth development experience**, making it an excellent learning project for aspiring **data scientists and developers**.  
+This **AI Chatbot with NLP** project demonstrates the power of **Python, APIs, and Natural Language Processing** in building interactive applications. It serves as an **educational tool** for beginners in **AI & NLP** and can be expanded into an advanced chatbot for **customer service, news updates, weather forecasting, and more**. The implementation in **VS Code** ensures a **smooth development experience**, making it an excellent learning project for aspiring **data scientists and developers**. 
+
+---
+
+### **OUTPUT**
+
+![Image](https://github.com/user-attachments/assets/17d19ef9-6c95-4220-b443-63b70ab86172)
