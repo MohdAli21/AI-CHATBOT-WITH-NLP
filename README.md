@@ -13,7 +13,7 @@
 *MENTOR*: NEELA SANTOSH
 
 
-### **AI Chatbot with NLP – Project Overview**  
+# ***AI Chatbot with NLP – Project Overview*** 
 
 #### **Introduction**  
 The **AI Chatbot with NLP** is a chatbot designed to interact with users by answering queries, providing weather updates, fetching news, solving mathematical expressions, and telling programming-related jokes. The project integrates **Natural Language Processing (NLP), API handling, and Python programming** to create an interactive assistant.  
